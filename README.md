@@ -6,6 +6,10 @@
 
 2. Comprobar la versión de **Python** del sistema. Necesitarás tener la versión **3.6 o superior**
 
+```bash
+python3 --version
+```
+
 3. Instalar entornos virtuales de python 
 
 ```bash
