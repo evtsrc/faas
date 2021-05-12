@@ -19,3 +19,5 @@ sudo apt-get install python3-venv
 4. Instalar la extensión de Python para Visual Studio Code. [Link](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 
 5. Instalar la extensión de Azure Functions para Visual Studio Code [Link](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions)
+
+En la propia documentación de la extensión se explican los pasos para configurar y ejecutar una función. Si quieres algo más de información puedes visitar el siguiente [Link](https://docs.microsoft.com/es-es/azure/azure-functions/create-first-function-vs-code-python).
