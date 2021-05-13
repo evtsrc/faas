@@ -4,7 +4,7 @@
 
 Crear una función en Azure Functions que responda a eventos **http**. Esta función se programará en Python y lo que hará es recoger un parámetro de entrada (mediante _Query String_) con el número de tareas a crear automáticamente.
 
-Por ejemplo, si en el _query string_ indico el número 6, la respuesta de función podría ser algo como esto:
+Por ejemplo, si en el _query string_ indico el número 2, la respuesta de función podría ser algo como esto:
 
 ```json
 {
